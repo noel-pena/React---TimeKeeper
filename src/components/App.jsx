@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="container">
       <h1>{time}</h1>
-      <button onClick={handleClick}>Get Time</button>
+      {/* <button onClick={handleClick}>Get Time</button> */}
     </div>
   );
 }
